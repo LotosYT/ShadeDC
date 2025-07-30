@@ -3,7 +3,9 @@
     "messages": 1,
     "reactions": 0,
     "emojis": 0,
-    "voice_channels": [],
+    "voice_channels": [
+      "1383718268057026643"
+    ],
     "daily_streak": 1,
     "last_message_date": "2025-07-30",
     "invites": 0,
