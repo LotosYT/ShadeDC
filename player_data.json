@@ -14,6 +14,13 @@
   },
   "1394376174808858734": {
     "boost_active": false,
-    "boost_start_date": null
+    "boost_start_date": null,
+    "messages": 1,
+    "reactions": 0,
+    "emojis": 0,
+    "voice_channels": [],
+    "daily_streak": 1,
+    "last_message_date": "2025-07-30",
+    "invites": 0
   }
 }
