@@ -1,0 +1,231 @@
+{
+  "milestones": {
+    "messages": {
+      "100": {
+        "command": "give %claiming_player% diamond 64",
+        "gui_item": "DIAMOND",
+        "gui_name": "§b100 Nachrichten",
+        "gui_lore": [
+          "§7Belohnung für 100 Nachrichten",
+          "§7Fortschritt: %progress%/%target%",
+          "%status_message%"
+        ],
+        "gui_position": 0,
+        "category": "messages"
+      },
+      "500": {
+        "command": "give %claiming_player% netherite_ingot 16",
+        "gui_item": "NETHERITE_INGOT",
+        "gui_name": "§d500 Nachrichten",
+        "gui_lore": [
+          "§7Belohnung für 500 Nachrichten",
+          "§7Fortschritt: %progress%/%target%",
+          "%status_message%"
+        ],
+        "gui_position": 1,
+        "category": "messages"
+      },
+      "1000": {
+        "command": "give %claiming_player% netherite_sword 1",
+        "gui_item": "NETHERITE_SWORD",
+        "gui_name": "§51000 Nachrichten",
+        "gui_lore": [
+          "§7Belohnung für 1000 Nachrichten",
+          "§7Fortschritt: %progress%/%target%",
+          "%status_message%"
+        ],
+        "gui_position": 2,
+        "category": "messages"
+      },
+      "5000": {
+        "command": "give %claiming_player% netherite_chestplate 1",
+        "gui_item": "NETHERITE_CHESTPLATE",
+        "gui_name": "§65000 Nachrichten",
+        "gui_lore": [
+          "§7Belohnung für 5000 Nachrichten",
+          "§7Fortschritt: %progress%/%target%",
+          "%status_message%"
+        ],
+        "gui_position": 3,
+        "category": "messages"
+      }
+    },
+    "daily_streak": {
+      "7": {
+        "command": "give %claiming_player% golden_apple 10",
+        "gui_item": "GOLDEN_APPLE",
+        "gui_name": "§e7 Tage Streak",
+        "gui_lore": [
+          "§7Belohnung für 7 Tage in Folge",
+          "§7Aktueller Streak: %current_streak%",
+          "%status_message%"
+        ],
+        "gui_position": 9,
+        "category": "daily_streak"
+      },
+      "30": {
+        "command": "give %claiming_player% enchanted_golden_apple 5",
+        "gui_item": "ENCHANTED_GOLDEN_APPLE",
+        "gui_name": "§e30 Tage Streak",
+        "gui_lore": [
+          "§7Belohnung für 30 Tage in Folge",
+          "§7Aktueller Streak: %current_streak%",
+          "%status_message%"
+        ],
+        "gui_position": 10,
+        "category": "daily_streak"
+      },
+      "100": {
+        "command": "give %claiming_player% netherite_helmet 1",
+        "gui_item": "NETHERITE_HELMET",
+        "gui_name": "§e100 Tage Streak",
+        "gui_lore": [
+          "§7Belohnung für 100 Tage in Folge",
+          "§7Aktueller Streak: %current_streak%",
+          "%status_message%"
+        ],
+        "gui_position": 11,
+        "category": "daily_streak"
+      }
+    },
+    "reactions": {
+      "50": {
+        "command": "give %claiming_player% emerald 32",
+        "gui_item": "EMERALD",
+        "gui_name": "§a50 Reaktionen",
+        "gui_lore": [
+          "§7Belohnung für 50 Reaktionen",
+          "§7Fortschritt: %progress%/%target%",
+          "%status_message%"
+        ],
+        "gui_position": 18,
+        "category": "reactions"
+      },
+      "100": {
+        "command": "give %claiming_player% diamond 32",
+        "gui_item": "DIAMOND",
+        "gui_name": "§a100 Reaktionen",
+        "gui_lore": [
+          "§7Belohnung für 100 Reaktionen",
+          "§7Fortschritt: %progress%/%target%",
+          "%status_message%"
+        ],
+        "gui_position": 19,
+        "category": "reactions"
+      }
+    },
+    "emojis": {
+      "100": {
+        "command": "give %claiming_player% emerald 16",
+        "gui_item": "EMERALD",
+        "gui_name": "§a100 Emojis",
+        "gui_lore": [
+          "§7Belohnung für 100 Emojis",
+          "§7Fortschritt: %progress%/%target%",
+          "%status_message%"
+        ],
+        "gui_position": 20,
+        "category": "emojis"
+      }
+    },
+    "voice_channels": {
+      "10": {
+        "command": "give %claiming_player% iron_ingot 64",
+        "gui_item": "IRON_INGOT",
+        "gui_name": "§a10 Voice Channels",
+        "gui_lore": [
+          "§7Belohnung für 10 Voice Channels",
+          "§7Fortschritt: %progress%/%target%",
+          "%status_message%"
+        ],
+        "gui_position": 21,
+        "category": "voice_channels"
+      }
+    },
+    "invites": {
+      "10": {
+        "command": "give %claiming_player% diamond_sword 1",
+        "gui_item": "DIAMOND_SWORD",
+        "gui_name": "§b10 Einladungen",
+        "gui_lore": [
+          "§7Belohnung für 10 Einladungen",
+          "§7Fortschritt: %progress%/%target%",
+          "%status_message%"
+        ],
+        "gui_position": 27,
+        "category": "invites"
+      },
+      "25": {
+        "command": "give %claiming_player% netherite_sword 1",
+        "gui_item": "NETHERITE_SWORD",
+        "gui_name": "§b25 Einladungen",
+        "gui_lore": [
+          "§7Belohnung für 25 Einladungen",
+          "§7Fortschritt: %progress%/%target%",
+          "%status_message%"
+        ],
+        "gui_position": 28,
+        "category": "invites"
+      },
+      "50": {
+        "command": "give %claiming_player% netherite_chestplate 1",
+        "gui_item": "NETHERITE_CHESTPLATE",
+        "gui_name": "§b50 Einladungen",
+        "gui_lore": [
+          "§7Belohnung für 50 Einladungen",
+          "§7Fortschritt: %progress%/%target%",
+          "%status_message%"
+        ],
+        "gui_position": 29,
+        "category": "invites"
+      }
+    },
+    "boost": {
+      "active": {
+        "command": "give %claiming_player% netherite_chestplate 1",
+        "gui_item": "NETHERITE_CHESTPLATE",
+        "gui_name": "§dServer Booster",
+        "gui_lore": [
+          "§7Belohnung für Server Boost",
+          "%status_message%"
+        ],
+        "gui_position": 36,
+        "category": "boost"
+      }
+    }
+  },
+  "gui_settings": {
+    "title": "§6🎯 Belohnungen - %player_name%",
+    "size": 54,
+    "categories": {
+      "messages": {
+        "name": "§b📝 Nachrichten",
+        "position": 0
+      },
+      "daily_streak": {
+        "name": "§e⚡ Daily Streak",
+        "position": 9
+      },
+      "reactions": {
+        "name": "§a🎭 Discord Interaktionen",
+        "position": 18
+      },
+      "emojis": {
+        "name": "§a😀 Emojis",
+        "position": 20
+      },
+      "voice_channels": {
+        "name": "§a🔊 Voice Channels",
+        "position": 21
+      },
+      "invites": {
+        "name": "§d📨 Einladungen",
+        "position": 27
+      },
+      "boost": {
+        "name": "§5🚀 Server Boost",
+        "position": 36
+      }
+    }
+  }
+} 
