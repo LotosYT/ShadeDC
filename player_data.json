@@ -10,5 +10,9 @@
     "invites": 0,
     "boost_active": true,
     "boost_start_date": null
+  },
+  "1059387388880764959": {
+    "boost_active": false,
+    "boost_start_date": null
   }
 }
