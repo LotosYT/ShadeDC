@@ -1,7 +1,7 @@
 {
   "milestones": {
     "messages": {
-      "1": {
+      "3": {
         "command": "give %claiming_player% diamond 64",
         "gui_item": "DIAMOND",
         "gui_name": "§b100 Nachrichten",
@@ -230,3 +230,4 @@
   }
 
 } 
+
