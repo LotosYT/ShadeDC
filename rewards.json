@@ -1,6 +1,12 @@
 {
   "1059387388880764959": {
-    "messages": {},
+    "messages": {
+      "3": {
+        "achieved": true,
+        "claimed": false,
+        "achieved_date": "2025-08-01T21:58:20.312462"
+      }
+    },
     "voice_channels": {}
   },
   "1233482907184533586": {
