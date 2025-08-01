@@ -1,15 +1,1 @@
-{
-  "1059387388880764959": {
-    "messages": {},
-    "voice_channels": {}
-  },
-  "1233482907184533586": {
-    "invites": {
-      "1": {
-        "achieved": true,
-        "claimed": false,
-        "achieved_date": "2025-08-01T21:54:16.498158"
-      }
-    }
-  }
-}
+{"1059387388880764959":{"messages":{},"voice_channels":{}},"1233482907184533586":{"invites":{"1":{"achieved":true,"claimed":true,"achieved_date":"2025-08-01T21:54:16.498158"}}}}
