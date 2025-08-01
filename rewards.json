@@ -18,6 +18,12 @@
         "achieved_date": "2025-08-01T21:54:16.498158"
       }
     },
-    "messages": {}
+    "messages": {
+      "3": {
+        "achieved": true,
+        "claimed": false,
+        "achieved_date": "2025-08-01T21:59:21.346527"
+      }
+    }
   }
 }
